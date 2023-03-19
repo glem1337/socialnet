@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/socialnet/static/css/main.80d9955d.css",
+    "main.js": "/socialnet/static/js/main.6efcac6b.js",
+    "static/js/787.fe233384.chunk.js": "/socialnet/static/js/787.fe233384.chunk.js",
+    "static/media/kite.png": "/socialnet/static/media/kite.c558b345215f1fc57c83.png",
+    "static/media/spinner.gif": "/socialnet/static/media/spinner.d3fbaf2b81fd92c49692.gif",
+    "static/media/SVR.png": "/socialnet/static/media/SVR.39754df9ee956eb29956.png",
+    "index.html": "/socialnet/index.html",
+    "main.80d9955d.css.map": "/socialnet/static/css/main.80d9955d.css.map",
+    "main.6efcac6b.js.map": "/socialnet/static/js/main.6efcac6b.js.map",
+    "787.fe233384.chunk.js.map": "/socialnet/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80d9955d.css",
+    "static/js/main.6efcac6b.js"
+  ]
+}
